@@ -17,6 +17,7 @@ const Home: NextPage = () => {
       <Stats />
       <AboutUs />
       <Testimonials />
+      <Certified />
       <Blog />
       <Footer />
     </div>

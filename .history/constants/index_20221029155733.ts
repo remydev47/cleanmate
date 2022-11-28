@@ -1,0 +1,30 @@
+export const navLinks=[
+    {
+        id:"home",
+        title:"Home"
+    },
+    {
+        id:"about",
+        title:"About"
+    },
+    {
+        id:"services",
+        title:"Services"
+    },
+    {
+        id:"repair&services",
+        title:"Reapir & Services"
+    },
+    {
+        id:"blog",
+        title:"Blog"
+    },
+    {
+        id:"booking",
+        title:"Booking"
+    },
+    {
+        id:"contacts",
+        title:"Contacts"
+    },
+]
